@@ -1,4 +1,4 @@
 # resume_builder
 
-live deme
+live demo
 https://resumebuilt.netlify.app/#
